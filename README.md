@@ -1,5 +1,5 @@
-# wetter_station
-Arduino Wetterstation
+# Arduino Wetterstation
+
 Arduino Nano
 (Rote) LED an PIN D9
 Taster an PIN D2
